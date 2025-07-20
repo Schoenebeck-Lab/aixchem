@@ -24,10 +24,11 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Projects
+## Projects and Publications
 
-Code that was used throughout projects can be found in the ``projects/`` folder:
+Each subfolder in the `projects/` directory corresponds to a published study or ongoing research effort. Below is an overview linking each project to its associated publication:
 
-- ``projects/ni(I)-dimer/``:  
-Machine Learning-Guided Development of Trialkylphosphine Ni(I) Dimers and Applications in Site-Selective Catalysis (https://doi.org/10.1021/jacs.3c03403)
-
+| Project Folder            | Title                                                                                              | Citation / DOI |
+|---------------------------|----------------------------------------------------------------------------------------------------|----------------|
+| `ni(I)-dimer/`            | *Machine Learning-Guided Development of Trialkylphosphine Ni(I) Dimers and Applications in Site-Selective Catalysis* | [J. Am. Chem. Soc. 2023, 145, 28, 15414–15424](https://doi.org/10.1021/jacs.3c03403) |
+| `ni(I)-co2/`              | *Discovery of Ni(I) Complexes for CO2 Insertion Enabled by a Machine Learning-Computational-Selection Sequence* |[J. Am. Chem. Soc. 2025, XXX, XXX, XXX-XXX](https://doi.org/10.1021/jacs.5c00441) |
