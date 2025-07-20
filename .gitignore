@@ -1,6 +1,6 @@
 # PROJECT
 .vscode/
-
+project/*/results/
 
 # PYTHON
 # Byte-compiled / optimized / DLL files
